@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![ufff](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost\&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
+
 
 </div>
 
