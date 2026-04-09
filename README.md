@@ -2,7 +2,7 @@
 
 # Hi there, I'm Paulo Tlss 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=435\&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=435\&lines=Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
 
 
 
