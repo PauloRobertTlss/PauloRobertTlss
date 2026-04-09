@@ -32,15 +32,6 @@
 
 </div>
 
-<details>
-<summary><b>GitHub embed snippet</b></summary>
-
-```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
-```
-
-</details>
-
 ---
 
 ---
